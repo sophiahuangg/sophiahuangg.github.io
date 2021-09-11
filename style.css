@@ -1,10 +1,14 @@
-body {
+*{
+    margin: 0;
+    padding:0;
+}
+
+    body {
 background-image: url(../https://marble.com/uploads/materials/1075/1280X720/marble_White-Carrara_fWF1kmDGuRZJavjUsERa.jpg);
 background-size: cover;
 }
 
 li{
-
 }
 .menu{
     color:white;
