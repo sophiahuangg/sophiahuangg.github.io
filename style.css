@@ -13,6 +13,9 @@ background-size: cover;
 .title h1{
     margin:0;
     padding: 0;
+    white-space: normal;
+    top: 50%;
+    left: 50%;
     text-align: center;
     font-family: ARIAL;
     position: absolute;
