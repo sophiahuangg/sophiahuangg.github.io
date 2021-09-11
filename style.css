@@ -8,21 +8,13 @@ background-image: url(../https://marble.com/uploads/materials/1075/1280X720/marb
 background-size: cover;
 }
 
-li{
-}
-.menu{
-    color:white;
-    display: inline-block;
-    font-size: 18px;
-}
-li.menu:hover{
-    background-color:rgb(223, 187, 240);
-}
+
 
 .title{
     top:50%;
     left: 50%;
-
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
 }
 
 .title h1{
