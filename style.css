@@ -38,3 +38,7 @@
 #header{
     background-color: white;
 }
+
+#navigation .menu{
+    font-weight: bold;
+}
