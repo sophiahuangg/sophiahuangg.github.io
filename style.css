@@ -2,3 +2,15 @@ body {
 background-image: url(../https://marble.com/uploads/materials/1075/1280X720/marble_White-Carrara_fWF1kmDGuRZJavjUsERa.jpg);
 background-size: cover;
 }
+
+li{
+
+}
+.menu{
+    color:white;
+    display: inline-block;
+    font-size: 18px;
+}
+li.menu:hover{
+    background-color:rgb(223, 187, 240);
+}
