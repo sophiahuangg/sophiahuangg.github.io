@@ -10,11 +10,17 @@
     position: absolute;
     transform: translateX(-50%) translateY(-50%);
     font-size: 50px;
-    width: 100px;
+
 }
 
 
 .fb-like{
     position: absolute;
     bottom: 3px;
+}
+
+.Izbicki{
+    positions: absolute;
+    bottom: 5px;
+
 }
