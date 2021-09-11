@@ -10,7 +10,8 @@
     position: absolute;
     transform: translateX(-50%) translateY(-50%);
     font-size: 50px;
-    white-space: normal;
+    white-space: nononwrap;
+    overflow: hidden;
 
 }
 
