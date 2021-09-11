@@ -17,12 +17,12 @@
 
 .fb-like{
     position: absolute;
-    bottom: 40px;
+    bottom: 50px;
 }
 
 .Izbicki{
     position: absolute;
-    bottom: 20px;
+    bottom: 30px;
 
 }
 
@@ -30,5 +30,5 @@
 .license{
     position: absolute;
     bottom: 1px;
-    left: 0px;
+    
 }
