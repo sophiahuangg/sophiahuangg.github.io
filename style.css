@@ -1,8 +1,8 @@
 
 .title h1{
+    display: inline;
     margin:0;
     padding: 0;
-    white-space: normal;
     top: 50%;
     left: 50%;
     text-align: center;
@@ -10,6 +10,7 @@
     position: absolute;
     transform: translateX(-50%) translateY(-50%);
     font-size: 50px;
+    white-space: normal;
 
 }
 
