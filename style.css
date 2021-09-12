@@ -89,7 +89,8 @@ table,th,td{
 }
 
 .backlinks{
-    color: white;
+    color: black;
+    font-weight: bold;
 }
 
 
