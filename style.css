@@ -38,6 +38,6 @@ a{
     bottom: 1px;
 }
 
-li.menu:hover{
+a:hover{
     background-color:rgb(223, 187, 240);
 }
