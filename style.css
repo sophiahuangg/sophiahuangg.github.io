@@ -81,3 +81,10 @@ table,th,td{
     border: 1px solid white;
     border-collapse: collapse;
 }
+
+.goldfish{
+    background-color: white;
+    width: 800px;
+    height: 300px;
+    color: rgb(255,128,0);
+}
