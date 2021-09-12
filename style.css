@@ -68,6 +68,10 @@ a:hover{
     font-size: 16px;
 }
 
+table{
+    width: 600px;
+
+}
 
 th{
     text-align: left;
@@ -75,4 +79,5 @@ th{
 
 table,th,td{
     border: 1px solid white;
+    border-collapse: collapse;
 }
