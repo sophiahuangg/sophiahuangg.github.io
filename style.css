@@ -49,5 +49,6 @@ a{
 }
 
 #footer{
-    position: relative;
+    position: absolute;
+    bottom: 1px;
 }
