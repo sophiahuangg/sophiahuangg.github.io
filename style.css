@@ -83,8 +83,7 @@ table,th,td{
 }
 
 .goldfish{
-    background-color: white;
+    background-color: rgb(255,165,0);
     width: 800px;
-    color: rgb(255,128,0);
     font-size: 20px;
 }
