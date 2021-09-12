@@ -43,12 +43,13 @@ a:hover{
 }
 
 .rating{
-    font-weight: bold;
+    background-color: white;
 }
 
 
 .writing{
 
     font-size: 20px;
-    background-color: white;
+    font-weight: bold;
+   
 }
