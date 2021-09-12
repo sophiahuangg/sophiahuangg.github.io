@@ -24,8 +24,9 @@
 }
 
 
-#navigation .menu{
+navigation .menu{
     font-weight: bold;
+
 }
 
 a{
@@ -35,4 +36,8 @@ a{
 #footer{
     position: absolute;
     bottom: 1px;
+}
+
+li.menu:hover{
+    background-color:rgb(223, 187, 240);
 }
