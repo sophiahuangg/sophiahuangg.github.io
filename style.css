@@ -100,4 +100,5 @@ table,th,td{
 
 .number{
     color: orange;
+    font-weight: bold;
 }
