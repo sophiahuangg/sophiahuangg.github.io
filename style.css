@@ -61,3 +61,10 @@ a:hover{
     width: 480px;
     
 }
+
+
+.score{
+    background-color: rgb(204,204,255);
+    width: 480px;
+    font-size: 18px;
+}
