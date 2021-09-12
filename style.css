@@ -67,3 +67,12 @@ a:hover{
     width: 480px;
     font-size: 16px;
 }
+
+
+th{
+    text-align: left;
+}
+
+table,th,td{
+    border: 1px solid white;
+}
