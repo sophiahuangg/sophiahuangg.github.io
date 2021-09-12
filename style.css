@@ -1,4 +1,9 @@
 
+*{
+    margin:0;
+    padding:0;
+}
+
 .title h1{
     display: inline;
     margin:0;
@@ -46,4 +51,9 @@
 
 a{
     color: black;
+}
+
+#footer{
+    position: relative;
+    margin-top: -100px;
 }
