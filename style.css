@@ -97,3 +97,7 @@ table,th,td{
     background-color: rgb(204,204,255);
     width: 360px;
 }
+
+.number{
+    color: white;
+}
