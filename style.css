@@ -109,7 +109,7 @@ table,th,td{
     }
   }*/
 
-  p .bold{
+  p, .bold{
       color:red;
       font-weight: bold;
   }
