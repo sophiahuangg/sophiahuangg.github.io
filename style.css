@@ -109,7 +109,7 @@ table,th,td{
     }
   }*/
 
-  h1 + p{
+  h1~p>span{
       color:blue;
       font-weight: bold;
   }
