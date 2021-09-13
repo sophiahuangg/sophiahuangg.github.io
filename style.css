@@ -109,7 +109,7 @@ table,th,td{
     }
   }*/
 
-  img#header{
+  h1 div{
       color:blue;
       font-weight: bold;
   }
