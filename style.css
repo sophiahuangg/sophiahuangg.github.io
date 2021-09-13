@@ -111,4 +111,5 @@ table,th,td{
 
   .bold{
       color:red;
+      font-weight: bold;
   }
