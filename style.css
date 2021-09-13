@@ -110,6 +110,6 @@ table,th,td{
   }*/
 
   p, .bold{
-      color:red;
+      color:blue;
       font-weight: bold;
   }
