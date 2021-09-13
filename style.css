@@ -1,5 +1,5 @@
 
-.title h1{
+/*.title h1{
     display: inline;
     margin:0;
     padding: 0;
@@ -107,4 +107,8 @@ table,th,td{
     body {
       background-color: rgb(255,204,153);
     }
+  }*/
+
+  p{
+      color:red;
   }
