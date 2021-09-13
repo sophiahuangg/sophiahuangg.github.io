@@ -110,6 +110,6 @@ table,th,td{
   }*/
 
   h1~p>span{
-      color:blue;
+      color:red;
       font-weight: bold;
   }
