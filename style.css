@@ -102,7 +102,7 @@ table,th,td{
 }
 
 @media only screen and (max-width: 200px) {
- #header{
+ #phone{
 
       background-color: orange;
     }
