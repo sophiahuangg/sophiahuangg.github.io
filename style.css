@@ -113,4 +113,5 @@ table,th,td{
   .more{
       font-weight: bold;
       background-color: white;
+      width: 600px;
   }
