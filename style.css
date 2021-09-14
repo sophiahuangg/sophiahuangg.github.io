@@ -12,7 +12,7 @@
     font-size: 50px;
     white-space: nononwrap;
     overflow: hidden;
-
+    background-color: white;
 }
 
 
@@ -109,5 +109,5 @@ table,th,td{
 
   .more{
       background-color: white;
-      
+
   }
