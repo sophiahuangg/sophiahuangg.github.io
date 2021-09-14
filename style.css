@@ -108,6 +108,8 @@ table,th,td{
 
 
   .more{
-      background-color: white;
-
+      background-color: white
+      width: 1000px;
+      height: 400px;
+      font-weight: bold;
   }
