@@ -6,8 +6,10 @@
          color: orange;
          
     }
+}
 
-    .title h1{
+    @media screen and (max-width: 1000px) {
+         .title h1{
         display: inline;
         margin:0;
         padding: 0;
@@ -23,6 +25,12 @@
         background-color: white;
         width: 650px;
     }
+
+
+
+
+
+
 
     .soph{
         background-color: orange;
@@ -42,5 +50,5 @@
         background-color: orange;
     
     }
-}
+
 
