@@ -108,8 +108,12 @@ table,th,td{
 
       background-color: orange;
       font-size: 800px;
-    
 
+
+    }
+
+    .title h1{
+        color: orange;
     }
   }
 
