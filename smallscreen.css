@@ -7,6 +7,23 @@
          
     }
 
+    .title h1{
+        display: inline;
+        margin:0;
+        padding: 0;
+        top: 50%;
+        left: 50%;
+        text-align: center;
+        font-family: ARIAL;
+        position: absolute;
+        transform: translateX(-50%) translateY(-50%);
+        font-size: 26px;
+        white-space: nononwrap;
+        overflow: hidden;
+        background-color: white;
+        width: 650px;
+    }
+
     .soph{
         background-color: orange;
         font-weight: bold;
