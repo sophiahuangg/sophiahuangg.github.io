@@ -107,7 +107,9 @@ table,th,td{
  body{
 
       background-color: orange;
-      font-size
+      font-size: 8px;
+
+
     }
   }
 
