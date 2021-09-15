@@ -103,7 +103,7 @@ table,th,td{
     font-weight: bold;
 }
 
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 30px) {
  body{
 
       background-color: orange;
