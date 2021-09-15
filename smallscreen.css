@@ -45,11 +45,14 @@
     
     }
 
-    .writing{
+    @media screen and (max-width: 1000px) {
+        .writing{
 
-        font-size: 8px;
-        background-color: orange;
+            font-size: 8px;
+            background-color: orange;
+        
+        }
     
     }
-
+  
 
