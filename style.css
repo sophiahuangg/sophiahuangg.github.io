@@ -112,8 +112,9 @@ table,th,td{
 
     }
 
-    .title h1{
-        color: orange;
+    #header{
+        background-color: orange;
+    
     }
   }
 
