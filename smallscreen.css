@@ -19,7 +19,7 @@
         font-family: ARIAL;
         position: absolute;
         transform: translateX(-50%) translateY(-50%);
-        font-size: 26px;
+        font-size: 10px;
         white-space: nononwrap;
         overflow: hidden;
         background-color: white;
