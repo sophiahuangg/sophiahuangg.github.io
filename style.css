@@ -116,3 +116,9 @@ table,th,td{
       background-color: white;
       width: 1000px;
   }
+
+  .facts{
+      background-color: orange;
+      width: 600px;
+      font-weight: bold;
+  }
