@@ -5,9 +5,17 @@
          font-size: 800px;
          color:blue;
     }
+
+    .soph{
+        background-color: orange;
+        width: 600px;
+        font-weight: bold;
+        
+    }
+    
+    #header{
+        background-color: orange;
+    
+    }
 }
 
-#header{
-    background-color: orange;
-
-}
