@@ -104,13 +104,13 @@ table,th,td{
 }
 
 
-    }
+   
 
     #header{
         background-color: orange;
     
     }
-  }
+ 
 
 
   .more{
@@ -125,10 +125,11 @@ table,th,td{
       font-weight: bold;
   }
 
-  @media all and (max-width: 300px) {
+  @media only screen and (max-width: 300px) {
     body{
    
          background-color: orange;
          font-size: 800px;
          color:blue;
-   
+    }
+}
